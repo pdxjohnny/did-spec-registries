@@ -1,0 +1,9 @@
+{
+  "name": "alice",
+  "status": "registered",
+  "verifiableDataRegistry": "Alice Stream of Consciousness",
+  "contactName": "John Andersen",
+  "contactEmail": "johnandersenpdx@gmail.com",
+  "contactWebsite": "https://bit.ly/aliceoa",
+  "specification": "https://github.com/intel/dffml/tree/alice/docs/tutorials/rolling_alice"
+}
