@@ -1,0 +1,9 @@
+{
+  "name": "oa",
+  "status": "registered",
+  "verifiableDataRegistry": "Open Architecture",
+  "contactName": "John Andersen",
+  "contactEmail": "johnandersenpdx@gmail.com",
+  "contactWebsite": "https://github.com/intel/dffml",
+  "specification": "https://github.com/intel/dffml/blob/alice/docs/arch/0009-Open-Architecture.rst"
+}
